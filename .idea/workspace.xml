@@ -12,6 +12,9 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XDgBbMQuK3MzXPrW79VyAUdl5O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,5 +26,11 @@
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580586122037">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1320.741@46.27.1320.741" timestamp="1580586122037" />
   </component>
 </project>
