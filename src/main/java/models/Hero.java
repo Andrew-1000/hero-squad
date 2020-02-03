@@ -9,7 +9,7 @@ public class Hero {
     private int id;
     private int age;
     private String special_powers;
-    private String weakness;
+    private String weaknesgit s;
     private static ArrayList<Hero> instances = new ArrayList<>();
 
     public Hero(String name, int id, int age, String special_powers, String weakness) {
