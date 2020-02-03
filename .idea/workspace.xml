@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5ec0746-4d97-4e6b-be00-acd230cda735" name="Default Changelist" comment="" />
+    <list default="true" id="b5ec0746-4d97-4e6b-be00-acd230cda735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Hero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,10 +23,32 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XDgBbMQuK3MzXPrW79VyAUdl5O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +56,56 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="Gradle.HeroTest.HeroInstatiatesWithName_true">
+    <configuration name="HeroTest.HeroInstatiatesWithName_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.HeroTest.HeroInstatiatesWithName_true&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HeroTest.NewHeroObjectgetsCreatedCorrectly_true" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;models.HeroTest.NewHeroObjectgetsCreatedCorrectly_true&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HeroTest.HeroInstatiatesWithName_true" />
+        <item itemvalue="Gradle.HeroTest.NewHeroObjectgetsCreatedCorrectly_true" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +115,41 @@
       <screen x="46" y="27" width="1320" height="741" />
     </state>
     <state x="164" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1320.741@46.27.1320.741" timestamp="1580586122037" />
+    <state x="149" y="93" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580706259407">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state x="149" y="93" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.695@0.27.1366.695" timestamp="1580706259407" />
+    <state width="641" height="118" key="GridCell.Tab.0.bottom" timestamp="1580721165094">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="641" height="118" key="GridCell.Tab.0.bottom/0.27.1366.695@0.27.1366.695" timestamp="1580721165094" />
+    <state width="641" height="118" key="GridCell.Tab.0.center" timestamp="1580721165094">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="641" height="118" key="GridCell.Tab.0.center/0.27.1366.695@0.27.1366.695" timestamp="1580721165094" />
+    <state width="641" height="118" key="GridCell.Tab.0.left" timestamp="1580721165093">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="641" height="118" key="GridCell.Tab.0.left/0.27.1366.695@0.27.1366.695" timestamp="1580721165093" />
+    <state width="641" height="118" key="GridCell.Tab.0.right" timestamp="1580721165094">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state width="641" height="118" key="GridCell.Tab.0.right/0.27.1366.695@0.27.1366.695" timestamp="1580721165094" />
+    <state x="210" y="31" width="992" height="737" key="SettingsEditor" timestamp="1580586551673">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="210" y="31" width="992" height="737" key="SettingsEditor/46.27.1320.741@46.27.1320.741" timestamp="1580586551673" />
+    <state x="5" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1580714844611">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state x="5" y="202" key="com.intellij.ide.util.TipDialog/0.27.1366.695@0.27.1366.695" timestamp="1580714844611" />
+    <state x="199" y="27" width="1157" height="741" key="new project wizard" timestamp="1580586716984">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="199" y="27" width="1157" height="741" key="new project wizard/46.27.1320.741@46.27.1320.741" timestamp="1580586716984" />
+    <state x="129" y="40" width="672" height="678" key="search.everywhere.popup" timestamp="1580706450996">
+      <screen x="0" y="27" width="1366" height="695" />
+    </state>
+    <state x="129" y="40" width="672" height="678" key="search.everywhere.popup/0.27.1366.695@0.27.1366.695" timestamp="1580706450996" />
   </component>
 </project>
