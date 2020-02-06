@@ -12,11 +12,6 @@ import java.util.Map;
 import static spark.Spark.*;
 
 public class App {
-    //JDBC connectivity declarations
-    private final String url = "jdbc:postgresql://localhost/hero_squad";
-    private final String user = "postgres";
-    private final String password = "admin";
-
 
     //Main method starts here
     public static void main(String[] args) {
@@ -47,7 +42,7 @@ public class App {
             request.session().attribute("specialpower", specialpower);
             request.session().attribute("weakness", weakness);
             Hero myHero = new Hero(name,age,specialpower,weakness);
-
+            model.put("myHero", request.session().attributes());
             model.put("name", name);
             model.put("age", age);
             model.put("specialpower", specialpower);
