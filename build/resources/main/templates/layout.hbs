@@ -26,23 +26,28 @@
     </div>
     <div class="col-md-12">
 
-        <div class="col-md-6">
-            <h5>HEROES</h5>
-            {{#if showHeroe}}
-                {{#each showHeroe}}
-                    <ol>
-                        <li>{{name}} </li>
-                    </ol>
 
-                {{/each}}
-            {{else}}
-                <p>No Hero Created</p>
-            {{/if}}
-        </div>
 
-        <div class="col-md-6">
-            <h5>SQUADS</h5>
-        </div>
+        {{#block "content"}}
+
+            <div class="col-md-6">
+                <h5>HEROES</h5>
+                {{#if showHeroe}}
+                    {{#each hero}}
+                        <ol>
+                            <li>{{name}} </li>
+                        </ol>
+
+                    {{/each}}
+                {{else}}
+                    <p>No Hero Created</p>
+                {{/if}}
+            </div>
+
+            <div class="col-md-6">
+                <h5>SQUADS</h5>
+            </div>
+        {{/block}}
 
     </div>
 </div>
