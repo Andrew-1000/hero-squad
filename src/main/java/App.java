@@ -47,10 +47,9 @@ public class App {
             model.put("age", age);
             model.put("specialpower", specialpower);
             model.put("weakness", weakness);
-
             return new ModelAndView(model, "newhero.hbs");
 
-        });
+        }, new HandlebarsTemplateEngine());
 
 
         //Adds new Squads
