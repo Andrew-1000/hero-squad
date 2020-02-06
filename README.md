@@ -1,3 +1,6 @@
+## CodeBeat Grading
+[![codebeat badge](https://codebeat.co/badges/012aea2f-f988-484c-8824-544b4333bcc0)](https://codebeat.co/projects/github-com-andrew-1000-hero-squad-feature-hero-squad)
+
 ## Project Name 
 
 The project is reffered to as Hero-Squad
