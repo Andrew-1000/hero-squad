@@ -9,10 +9,10 @@ public class Hero {
     private int id;
     private int age;
     private String special_powers;
-    private String weaknesgit s;
+    private String weakness;
     private static ArrayList<Hero> instances = new ArrayList<>();
 
-    public Hero(String name, int id, int age, String special_powers, String weakness) {
+    public Hero(String name, int age, String special_powers, String weakness) {
         this.name = name;
         this.id = id;
         this.age = age;
@@ -40,6 +40,10 @@ public class Hero {
 
     public String getWeakness() {
         return weakness;
+    }
+
+    public static ArrayList<Hero> getAll() {
+        return instances;
     }
 
 

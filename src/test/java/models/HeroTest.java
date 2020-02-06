@@ -31,6 +31,6 @@ public class HeroTest {
     }
 
     private Hero setupNewHero() {
-        return new Hero("Spiderman", 1, 23, "Genius-level intellect", "death");
+        return new Hero("Spiderman", 12, "Genius-level intellect", "death");
     }
 }

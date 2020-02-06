@@ -1,0 +1,40 @@
+{{#partial "content"}}
+    <h2>Add a Squad</h2>
+    <div class="col-md-12">
+        <div class="col-md-6">
+            <form action="/squads/new" method="post">
+                <div class="form-group">
+                    <label for="maxsize"> Max Size</label>
+                    <input id="maxsize" name="maxsize" type="text" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input id="naming" name="naming" type="text" class="form-control">
+                </div>
+
+                <label for="cause"> Cause of Fighting</label>
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown">Cause of Fighting
+                        <span class="caret"></span></button>
+                    <ul class="dropdown-menu">
+                        <li><a name="sexism" id="sexism">Sexism</a></li>
+                        <li><a name="comp_ill" id="comp_ill">Computer Illiteracy</a></li>
+                        <li><a name="covering" id="covering">Not covering your mouth when you sneeze</a></li>
+                        <li><a name="hogging" id="hogging">Hogging bus seats with back packs</a></li>
+                        <li><a name="pa" id="pa">Passive-Aggressive</a></li>
+                        <li><a name="postit" id="postit">Post-it Notes</a></li>
+
+                    </ul>
+                </div>
+                <br>
+                <br>
+
+                <button class="btn btn-primary"> CREATE NEW SQUAD</button>
+            </form>
+                </div>
+
+        </div>
+
+    </div>
+{{/partial}}
+{{> layout.hbs}}
