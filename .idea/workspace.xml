@@ -5,12 +5,23 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/HeroSquad-1.0-SNAPSHOT.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/HeroSquad-1.0-SNAPSHOT.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/models.HeroTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/models.HeroTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/models.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/models.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/HeroSquad" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/HeroSquad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/HeroSquad.bat" beforeDir="false" afterPath="$PROJECT_DIR$/build/scripts/HeroSquad.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-models.HeroTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-models.HeroTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hero_squad" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyramidInvert.java" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Gradle.HeroTest.HeroInstatiatesWithName_true">
@@ -137,10 +148,10 @@
       <screen x="0" y="27" width="1366" height="695" />
     </state>
     <state x="216" y="31" width="924" height="691" key="DBNavigator.ProjectSettingsDialog/0.27.1366.695@0.27.1366.695" timestamp="1580848386115" />
-    <state x="807" y="132" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580851288019">
+    <state x="807" y="132" width="424" height="491" key="FileChooserDialogImpl" timestamp="1581068891930">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
-    <state x="807" y="132" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.695@0.27.1366.695" timestamp="1580851288019" />
+    <state x="807" y="132" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.695@0.27.1366.695" timestamp="1581068891930" />
     <state width="1324" height="150" key="GridCell.Tab.0.bottom" timestamp="1580984699395">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
@@ -174,10 +185,10 @@
       <screen x="0" y="27" width="1366" height="695" />
     </state>
     <state x="16" y="27" width="667" height="695" key="find.popup/0.27.1366.695@0.27.1366.695" timestamp="1580801818935" />
-    <state x="158" y="27" width="1157" height="741" key="new project wizard" timestamp="1580815457603">
+    <state x="158" y="27" width="1157" height="695" key="new project wizard" timestamp="1581069576876">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
-    <state x="158" y="27" key="new project wizard/0.27.1366.695@0.27.1366.695" timestamp="1580815457603" />
+    <state x="158" y="27" width="1157" height="695" key="new project wizard/0.27.1366.695@0.27.1366.695" timestamp="1581069576876" />
     <state x="199" y="27" width="1157" height="741" key="new project wizard/46.27.1320.741@46.27.1320.741" timestamp="1580586716984" />
     <state x="129" y="40" width="672" height="678" key="search.everywhere.popup" timestamp="1580986665159">
       <screen x="0" y="27" width="1366" height="695" />

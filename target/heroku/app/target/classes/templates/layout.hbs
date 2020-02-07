@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> {{#block "title"}}Hero-Squad{{/block}}</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body class="container">
+    <ul class="nav nav-tabs">
+        <li role="presentation"><a href="/">Home</a> </li>
+        <li role="presentation"><a href="/heroes/new">Add New Hero</a> </li>
+        <li role="presentation"><a href="/squads/new">Add New Squad</a> </li>
+
+        <li role="presentation" class="dropdown">
+            <a href="/squad/new" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                Assign Hero to Squad <span class="caret"></span>
+            </a>
+
+        </li>
+    </ul>
+<div class ="container">
+    <div class="page-header">
+        <h1>Assign Heroes to a Squad</h1>
+    </div>
+    <div class="col-md-12">
+
+
+
+        {{#block "content"}}
+
+            <div class="col-md-6">
+                <h5>HEROES</h5>
+                {{#if showHeroe}}
+                    {{#each hero}}
+                        <ol>
+                            <li>{{name}} </li>
+                        </ol>
+
+                    {{/each}}
+                {{else}}
+                    <p>No Hero Created</p>
+                {{/if}}
+            </div>
+
+            <div class="col-md-6">
+                <h5>SQUADS</h5>
+            </div>
+        {{/block}}
+
+    </div>
+</div>
+{{#block "footer"}}
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted">
+                <a href="/squads/delete"># </a>
+            </p>
+        </div>
+
+    </footer>
+{{/block}}
+</body>
+
+</html>

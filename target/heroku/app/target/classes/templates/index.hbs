@@ -1,0 +1,13 @@
+{{#partial "content"}}
+
+    {{#if heroes}}
+        {{#each heroes}}
+            <p>Hero: {{name}}</p>
+            <p> Show the current Hero: {{age}}</p>
+            <p>Database Connectivity to display the hero</p>
+        {{/each}}
+    {{else}}
+        <p>No Heroes</p>
+    {{/if}}
+{{/partial}}
+{{> layout.hbs}}
