@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5ec0746-4d97-4e6b-be00-acd230cda735" name="Default Changelist" comment="" />
+    <list default="true" id="b5ec0746-4d97-4e6b-be00-acd230cda735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-models.HeroTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/TEST-models.HeroTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/models.HeroTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/surefire-reports/models.HeroTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.HeroTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.HeroTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.HeroTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.HeroTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,22 +144,22 @@
       <screen x="0" y="27" width="1366" height="695" />
     </state>
     <state x="807" y="132" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.695@0.27.1366.695" timestamp="1581068891930" />
-    <state width="1324" height="150" key="GridCell.Tab.0.bottom" timestamp="1580984699395">
+    <state width="1324" height="150" key="GridCell.Tab.0.bottom" timestamp="1581104618268">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
-    <state width="1324" height="150" key="GridCell.Tab.0.bottom/0.27.1366.695@0.27.1366.695" timestamp="1580984699395" />
-    <state width="1324" height="150" key="GridCell.Tab.0.center" timestamp="1580984699394">
+    <state width="1324" height="150" key="GridCell.Tab.0.bottom/0.27.1366.695@0.27.1366.695" timestamp="1581104618268" />
+    <state width="1324" height="150" key="GridCell.Tab.0.center" timestamp="1581104618267">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
-    <state width="1324" height="150" key="GridCell.Tab.0.center/0.27.1366.695@0.27.1366.695" timestamp="1580984699394" />
-    <state width="1324" height="150" key="GridCell.Tab.0.left" timestamp="1580984699393">
+    <state width="1324" height="150" key="GridCell.Tab.0.center/0.27.1366.695@0.27.1366.695" timestamp="1581104618267" />
+    <state width="1324" height="150" key="GridCell.Tab.0.left" timestamp="1581104618267">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
-    <state width="1324" height="150" key="GridCell.Tab.0.left/0.27.1366.695@0.27.1366.695" timestamp="1580984699393" />
-    <state width="1324" height="150" key="GridCell.Tab.0.right" timestamp="1580984699394">
+    <state width="1324" height="150" key="GridCell.Tab.0.left/0.27.1366.695@0.27.1366.695" timestamp="1581104618267" />
+    <state width="1324" height="150" key="GridCell.Tab.0.right" timestamp="1581104618268">
       <screen x="0" y="27" width="1366" height="695" />
     </state>
-    <state width="1324" height="150" key="GridCell.Tab.0.right/0.27.1366.695@0.27.1366.695" timestamp="1580984699394" />
+    <state width="1324" height="150" key="GridCell.Tab.0.right/0.27.1366.695@0.27.1366.695" timestamp="1581104618268" />
     <state x="170" y="27" width="1027" height="695" key="SettingsEditor" timestamp="1580984646987">
       <screen x="0" y="27" width="1366" height="695" />
     </state>

@@ -3,10 +3,13 @@ plugins {
     id 'application'
 }
 
+applicationName = "HeroSquad"
+
 group 'org.example'
 version '1.0-SNAPSHOT'
 
 mainClassName = 'App'
+apply plugin: 'java'
 sourceCompatibility = 1.8
 
 repositories {
@@ -19,3 +22,5 @@ dependencies {
     compile "com.sparkjava:spark-template-handlebars:2.5.5"
     compile 'org.slf4j:slf4j-simple:1.7.21'
 }
+defaultTasks = ['clean']
+task stage (dependsOn: ['clean', 'installApp'])
