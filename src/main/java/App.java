@@ -80,7 +80,7 @@ public class App {
             model.put("name", naming);
             model.put("cause", cause);
 
-            return new ModelAndView(model, "squad-form.hbs");
+            return new ModelAndView(model, "newsquad.hbs");
 
         }, new HandlebarsTemplateEngine());
 
